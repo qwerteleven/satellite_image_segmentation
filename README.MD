@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ## Generate a 3D mesh from a depth map
 
-python src/reconstruction/depth_to_mesh.py --depth output/depth.png --mesh output/mesh.obj
+python depth_model_stack.py
 
 
 ## Results
