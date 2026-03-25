@@ -12,23 +12,17 @@ def make_gif(frame_folder, output_name):
 
 
 if __name__ == "__main__":
-    folder = "OCR"
-    
-    make_gif(folder, f"{folder}.gif")
 
-
-    """
     folder = "gran_canaria"
     
     make_gif(folder, f"{folder}.gif")
 
-    folder = "tenerife"
+    folder = "tenerife" 
     
     make_gif(folder, f"{folder}.gif")
 
     folder = "luna"
     
     make_gif(folder, f"{folder}.gif")
-    
-    """
+
 

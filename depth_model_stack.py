@@ -1,5 +1,5 @@
 from transformers import pipeline
-from proyeccion_lateral import border_adjust
+from lateral_proyection import border_adjust
 from PIL import Image
 
 import numpy as np
