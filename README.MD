@@ -60,8 +60,8 @@ All models run on PyTorch and are integrated into a modular inference pipeline s
 
 ## Installation
 
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone https://github.com/qwerteleven/satellite_image_segmentation.git
+cd satellite_image_segmentation
 pip install -r requirements.txt
 
 
